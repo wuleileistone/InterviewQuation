@@ -1,6 +1,7 @@
 # InterviewQuation
- ##安卓面试的一些问题
- **java基础部分**
+ ##安卓面试的一些问题  
+ 
+**java基础部分**
  
 1. java中==和equals和hashCode的区别
 
